@@ -1,5 +1,5 @@
-# Jordan
-# Ejemplo de Bitácora de comandos de Sistemas Operativos
+# Jordan Castillo
+# Repositorio Github comandos de Sistemas Operativos
 Bitácora de comandos para la clase de sistemas operativos
 
 | Comando | Descripción | Ejemplo de uso |
