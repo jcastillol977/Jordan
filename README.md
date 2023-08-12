@@ -12,17 +12,17 @@ Bitácora de comandos para la clase de sistemas operativos
 |`passwd`| cambiar contraseña de un usuario | passwd jcastillo |
 |`history`| historial de todos los comandos que se han digitado | con la flecha arriba, trae historial |
 |`ls`| mostrar carpetas | `ls  jcastillo |
-|`nano archivo.txt`| crear archivos | `.txt archivo ce texto creado |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
+|`nano archivo.txt`| crear archivos | `.txt archivo de texto creado |
+|`cat archivo.txt`| Imprime en pantalla texto txt. |  |
+|`mkdir`| crear una carpeta | `mkdir/Jordan"` |
+|`cd`| (change directory) |  |
+|`rm archivo.txt`| borrar el archivo txt creado | `echo "Hola"` |
+|`top`| lista de procesos |  |
+|`sudo apt instal htop`| lista de procesos mas ordenada |  |
+|`curl`| para ver el codigo del navegador de una pagina | curl www.google.com` |
+|`wget`| extraer un archivo comprimido | wget https://wordpress.org/latest.zip |
+|`sh`|  descargar y descomprime e intala el paquete | DESTDIR="$HOME/.local/share/icons" |
+|`nmap`| para ver que puertos estan abiertos/cerrados . | nmap = 3.91.71.89 (IP) |
 |`echo`| Imprime en pantalla texto. | `echo "Hola"` |
 |`echo`| Imprime en pantalla texto. | `echo "Hola"` |
 |`echo`| Imprime en pantalla texto. | `echo "Hola"` |
