@@ -20,7 +20,7 @@ Bitácora de comandos para la clase de sistemas operativos
 |`top`| lista de procesos |  |
 |`sudo apt instal htop`| lista de procesos mas ordenada |  |
 |`curl`| para ver el codigo del navegador de una pagina | curl www.google.com` |
-|`wget`| extraer un archivo comprimido | wget https://wordpress.org/latest.zip |
+|`wget`| descargar archivos de Internet.  | wget https://wordpress.org/latest.zip |
 |`sh`|  descargar y descomprime e intala el paquete | DESTDIR="$HOME/.local/share/icons" |
 |`nmap`| para ver que puertos estan abiertos/cerrados . | nmap = 3.91.71.89 (IP) |
 |`apcalc`|Calculadora |  |
@@ -30,11 +30,11 @@ Bitácora de comandos para la clase de sistemas operativos
 |`cp`| copia archivos | cp foto.jpg  |
 |`mv`| Mover y renombrar archivos | mv foto.jpg nombrecambiado.jpg |
 |`rmdir`| eliminar un directorio vacio | rmdir carpeta jcastillo |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
-|`unzip`| Descomprimir | unzip comprimido.zip |
+|`locate`| encontrar un archivo | locate -i jordan |
+|`find`| buscar archivos dentro de un directorio | find /inicio -notas.txt|
+|`Chmod`| cambiar los permisos de una carpeta |  |
+|`sudo apt-get update`|llama actualizaciones |  |
+|`sudo apt-get install`| instalacion de programa | sudo apt-get install timeshift |
+|`DD`| limpiar pantalla |  |
+|`cut`| extrae contenido de los archivos | se extrae por ejemplo lineas de texto |
+|`lsof`| muestra archivos abiertos en terminal |  |
