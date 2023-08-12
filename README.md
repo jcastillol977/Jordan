@@ -4,7 +4,7 @@ Bitácora de comandos para la clase de sistemas operativos
 
 | Comando | Descripción | Ejemplo de uso |
 |--|--|--|
-| `clear` | Limpia la pantalla de la sesión de consola actual. | `clear` muestra toda la información (gracias al flag `-a`) sobre 
+| `clear` | Limpia la pantalla de la sesión de consola actual. | `clear` muestra toda la información (gracias al flag `-a`)  
 | `ip a` | mostrar direccion ip |  |
 | `pwd` | Ubica donde esta el usuario | `pwd` muestra home/ubuntu|
 | `cp <origen> <destino>` | Copia un archivo (o directorio si se usa el flag `-r`) a otro |  |
@@ -23,7 +23,18 @@ Bitácora de comandos para la clase de sistemas operativos
 |`wget`| extraer un archivo comprimido | wget https://wordpress.org/latest.zip |
 |`sh`|  descargar y descomprime e intala el paquete | DESTDIR="$HOME/.local/share/icons" |
 |`nmap`| para ver que puertos estan abiertos/cerrados . | nmap = 3.91.71.89 (IP) |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
-|`echo`| Imprime en pantalla texto. | `echo "Hola"` |
+|`apcalc`|Calculadora |  |
+|`whoami`|Cual usuario soy | jcastillo |
+|`zip `| Comprimir. | `zip comprimido.zip archivo.txt` |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
+|`unzip`| Descomprimir | unzip comprimido.zip |
